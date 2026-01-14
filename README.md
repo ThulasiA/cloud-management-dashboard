@@ -13,6 +13,7 @@ A React-based infrastructure management interface demonstrating enterprise cloud
 - Tailwind CSS
 
 ## Live Demo
+https://cloud-dashboard-demo.netlify.app/
 
 ## Running Locally
 npm install
