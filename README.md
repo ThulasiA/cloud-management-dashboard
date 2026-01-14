@@ -16,4 +16,5 @@ A React-based infrastructure management interface demonstrating enterprise cloud
 
 ## Running Locally
 npm install
+
 npm start
