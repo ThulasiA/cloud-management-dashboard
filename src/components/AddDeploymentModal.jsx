@@ -1,4 +1,5 @@
-import { X as CloseIcon } from "lucide-react";
+import { X } from "lucide-react";
+import { useState } from "react";
 
 function AddDeploymentModal({ onAdd, onClose }) {
   const [name, setName] = useState("");

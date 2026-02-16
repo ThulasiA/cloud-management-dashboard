@@ -1,6 +1,7 @@
 import DeploymentList from "./DeploymentList";
 import MonitoringView from "./MonitoringView";
 import { Server, Activity } from "lucide-react";
+import { useState } from "react";
 
 function TabsContainer({ vms, onDelete, onOpenModal }) {
   const [activeTab, setActiveTab] = useState("compute");
